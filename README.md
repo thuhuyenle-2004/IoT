@@ -13,12 +13,11 @@ An IoT-based system for real-time temperature and humidity monitoring using ESP3
 
 ## Hardware Demonstration
 ### ESP32 Node
-![ESP32 Node](images/esp32_node.jpg)
+![ESP32 Node](esp32_node.jpg)
 ### Arduino Nano Node
-![Arduino Nano Node](images/arduino_node.jpg)
+![Arduino Nano Node](arduino_node.jpg)
 ## Dashboard
-### Node-RED Monitoring Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Features
 - Collect temperature and humidity data
